@@ -1,6 +1,6 @@
 # MobileKeyboard
 ## Send keyboard inputs from you smartphone to your Windows Machine
-### Made as a learning oportunity, funcionality may vary.
+### Made as a learning opportunity, functionality may vary
 
 This project was made with C/C++ TCP Sockets and React-Native as the front-end of it.
 1. Server uses windows sockets (WS2) as its way of communicating with the client and as such it will only run on Windows machines.
