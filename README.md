@@ -2,7 +2,7 @@
 ## Send keyboard inputs from you smartphone to your Windows Machine
 ### Made as a learning opportunity, functionality may vary
 
-This project was made with C/C++ TCP Sockets and React-Native as the front-end of it.
+This project was made with C/C++ TCP Sockets and a React-Native App front-end.
 1. Server uses windows sockets (WS2) as its way of communicating with the client and as such it will only run on Windows machines.
 2. The React-Native app should function correctly in both iOS and Android but it is only setup for the later, no garanties on the former (might need more setup)
 
